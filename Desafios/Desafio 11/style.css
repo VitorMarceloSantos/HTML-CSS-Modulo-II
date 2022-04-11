@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div.preencher{
+    width: 100vw;
+    height: 100vh;
+    background: url(espaco.jpg);
+    background-size: cover;
+}
+.astronauta{
+    display: block;
+    margin: auto;
+    position: relative;
+}
